@@ -1,0 +1,17 @@
+//Task 1
+a = 6
+b = 5
+a+b
+11
+a-b
+1
+a*b
+30
+a/b
+1.2
+
+//Task 2
+height = input("Your height")
+base = input("Your base")
+print(1.2 * int(height) * int(base))
+
