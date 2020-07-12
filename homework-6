@@ -1,0 +1,24 @@
+# Task 1
+x = 5
+y = "John"
+print(x)
+print(y)
+
+# task 2
+x = 4 # x is of type int
+x = "Sally" # x is now of type str
+print(x)
+
+# task 3
+myvar = "John"
+my_var = "John"
+_my_var = "John"
+myVar = "John"
+MYVAR = "John"
+myvar2 = "John"
+
+
+# task4
+2myvar = "John"
+my-var = "John"
+my var = "John"
